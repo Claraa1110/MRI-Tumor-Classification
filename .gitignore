@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# MRI Dataset
+archive/
+Test_Video/
+
+# Python
+__pycache__/
+*.pyc
+.env
+# MRI Dataset (too large)
+archive/
+Test_Video/
+
+# Model cache / python
+__pycache__/
+*.pyc
+.env
+
